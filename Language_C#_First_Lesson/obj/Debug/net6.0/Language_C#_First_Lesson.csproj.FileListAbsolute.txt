@@ -1,0 +1,15 @@
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\bin\Debug\net6.0\Language_C#_First_Lesson.exe
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\bin\Debug\net6.0\Language_C#_First_Lesson.deps.json
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\bin\Debug\net6.0\Language_C#_First_Lesson.runtimeconfig.json
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\bin\Debug\net6.0\Language_C#_First_Lesson.dll
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\bin\Debug\net6.0\Language_C#_First_Lesson.pdb
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.dll
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\refint\Language_C#_First_Lesson.dll
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.pdb
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\Language_C#_First_Lesson.genruntimeconfig.cache
+C:\Users\Ruslan\Desktop\Language C#\Language_C#_First_Lesson\obj\Debug\net6.0\ref\Language_C#_First_Lesson.dll
